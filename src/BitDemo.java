@@ -28,4 +28,8 @@ class BitDemo {
     	}
     	
     }
+    
+    void printSomething() {
+    	System.out.println("Printing Something"); 
+    }
 }
