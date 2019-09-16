@@ -28,4 +28,8 @@ class BitDemo {
     	}
     	
     }
+    
+    void doAddition() {
+    	System.out.println("doAddition method called");
+    }
 }
