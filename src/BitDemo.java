@@ -16,7 +16,7 @@ class BitDemo {
     }
     
     
-    public static void doSomething(String...strings) {
+    public static void doSomething(String...strings) { 
     	System.out.println("method called ");
     	
     	int i = 0;
